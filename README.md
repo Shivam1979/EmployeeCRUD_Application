@@ -1,0 +1,2 @@
+# EmployeeCRUD_Application
+ "I am working on a project using Java and JavaFX, along with SQL. This project focuses on enabling CRUD operations, which stands for Create, Read, Update, and Delete, for employee records. With this application, I aim to streamline employee data management by providing an intuitive user interface and efficient database operations. This project is a valuable opportunity for me to enhance my Java programming skills and gain practical experience in database management."
